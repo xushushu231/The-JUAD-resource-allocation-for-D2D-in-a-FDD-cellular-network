@@ -1,5 +1,7 @@
 # Joint Uplink and Downlink Resource Allocation for D2D Communications Underlying Cellular Networks
-%% WCSP 会议论文源码
+
+WCSP 会议论文源码
+
 %% 论文详见：https://ieeexplore.ieee.org/document/8555896
 
 %************************************************************************************************************%
